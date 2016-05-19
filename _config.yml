@@ -1,13 +1,14 @@
 name: Noble Images
 favicon: null
-layout_spectrum: 0.7871729789767414
-typography_spectrum: 0.8941518967039883
+layout_spectrum: 0.23987
+typography_spectrum: 0
+title: Modern Day View
 cta:
   domain: null
   bucket: null
   version: null
 analytics:
-  google: null
+  google: UA-77968692-1
   facebook: null
   twitter: null
 opengraph:
