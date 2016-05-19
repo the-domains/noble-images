@@ -1,0 +1,29 @@
+name: Noble Images
+favicon: null
+layout_spectrum: 0.7871729789767414
+typography_spectrum: 0.8941518967039883
+title: Modern Day View
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.7371030231006444
+  lightness: 0.9978865666780621
+  saturation: 0.9616604330949485
+  rhythmicContrast: 0.908109416719526
+purpose: []
